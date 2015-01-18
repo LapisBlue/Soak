@@ -1,0 +1,3 @@
+rootProject.name = 'Soak'
+
+include 'Cli', 'Core', 'Plugin'
